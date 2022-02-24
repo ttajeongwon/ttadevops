@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+cat.exe.stackdump
+mktemp.exe.stackdump
+rm.exe.stackdump
